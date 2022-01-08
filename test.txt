@@ -1,2 +1,6 @@
 abc
+<<<<<<< HEAD
 cccccc by manager
+=======
+aaaa by number
+>>>>>>> 9cb561ee8f280c970c112b5da32ea8f0d5a80586
